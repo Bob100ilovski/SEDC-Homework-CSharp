@@ -1,0 +1,7 @@
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\bin\Debug\hw 01.exe.config
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\bin\Debug\hw 01.exe
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\bin\Debug\hw 01.pdb
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\obj\Debug\hw 01.csprojAssemblyReference.cache
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\obj\Debug\hw 01.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\obj\Debug\hw 01.exe
+C:\Users\BS\Desktop\C#-HW\hw 01\hw 01\obj\Debug\hw 01.pdb
